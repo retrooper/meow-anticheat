@@ -1,2 +1,2 @@
 # meow-anticheat
-Meow leak
+Meow is open-source!
